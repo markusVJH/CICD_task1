@@ -1,6 +1,6 @@
 # Group Task 1!
 
-[![Node CI](https://github.com/markusvjh/CICD_task1/actions/workflows/whatever.yml/badge.svg)](https://github.com/markusvjh/CICD_task1/actions/workflows/build-test.yml)
+[![Node CI](https://github.com/markusvjh/CICD_task1/actions/workflows/build-test.yml/badge.svg)](https://github.com/markusvjh/CICD_task1/actions/workflows/build-test.yml)
 
 ### Task 1
 
